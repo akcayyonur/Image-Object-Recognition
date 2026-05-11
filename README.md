@@ -52,9 +52,9 @@ Classes: `airplane` `automobile` `bird` `cat` `deer` `dog` `frog` `horse` `ship`
 
 | Model | Accuracy | Precision | Recall | F1-Score | MCC |
 |---|---|---|---|---|---|
-| Logistic Regression | ~38% | ~38% | ~38% | ~38% | ~0.31 |
-| SVM (RBF) | ~54% | ~54% | ~54% | ~54% | ~0.49 |
-| **CNN** | **~78%** | **~78%** | **~78%** | **~78%** | **~0.75** |
+| Logistic Regression | 39.80% | 39.13% | 39.80% | 39.22% | 0.3316 |
+| SVM (RBF) | 47.07% | 47.13% | 47.07% | 47.05% | 0.4120 |
+| **CNN** | **81.21%** | **81.11%** | **81.21%** | **81.07%** | **0.7914** |
 
 ![Performance comparison](results/viz5_performance_comparison.png)
 
